@@ -1,0 +1,32 @@
+body{
+  font-family: "RocknRoll One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.section-one{
+  background-color: rgb(177, 186, 177);
+}
+.section-one,.section-one-title,.section-one-web,.section-one-contact{
+margin: 5px;
+padding: 5px;
+letter-spacing: 1px;}
+
+.section-one-web{
+  padding-bottom: 10px;
+  margin-bottom: 200px;
+  display: inline;
+
+}
+
+.section-one-contact{
+padding-top: 5px; 
+background-color: blue;
+margin: 5px;
+border-radius: 15px;}
+
+.overall{margin: 0;
+padding: 0;}
+.section-one-contact a{color: white;}
+.one{border: none;
+}
